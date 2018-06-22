@@ -1,0 +1,21 @@
+{  
+   "Id":"2cfa0e06-70e6-4979-bf36-ded9a363bc91",
+   "Status":"Error",
+   "Progress":null,
+   "TotalRecords":null,
+   "AcceptedRecords":null,
+   "ErrorRecords":null,
+   "ElapsedTime":null,
+   "ErrorMessage":"Import error.",
+   "Lines":[  
+      {  
+         "StyleNo":"9780023381737",
+         "EntityNo":"4649",
+         "EntityId":"2cfa0e06-70e6-4979-bf36-ded9a363bc91",
+         "Error":"Error: The field AttributeSet1 is invalid (AttributeSet1: 'Coldfgdhfghor' - Style '211115', Item EID '2112345').",
+         "Status":"Error"
+      }
+   ],
+   "ApiType":"simplified-inventory-import",
+   "Source":"IndigoOnlineTrade"
+}

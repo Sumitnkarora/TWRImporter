@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Indigo.TWR.TradeImporter", "Indigo.TWR.TradeImporter\Indigo.TWR.TradeImporter.csproj", "{93299E2D-F3C3-4826-9E55-D95B00FD07B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Indigo.TWR.TradeImporter.Library", "Indigo.TWR.TradeImporter.Library\Indigo.TWR.TradeImporter.Library.csproj", "{F4BE58CC-272B-428A-B801-0796E0AE7106}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Indigo.TWR.TradeImporter.AzureSender", "Indigo.TWR.TradeImporter.AzureSender\Indigo.TWR.TradeImporter.AzureSender.csproj", "{97327478-3F3C-4FBB-91DF-70AB1C350C73}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Indigo.TWR.TradeImporter.Test", "Indigo.TWR.TradeImporter.Test\Indigo.TWR.TradeImporter.Test.csproj", "{D8B3E2B2-345E-4E68-B927-2B9DE341E900}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93299E2D-F3C3-4826-9E55-D95B00FD07B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93299E2D-F3C3-4826-9E55-D95B00FD07B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93299E2D-F3C3-4826-9E55-D95B00FD07B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93299E2D-F3C3-4826-9E55-D95B00FD07B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4BE58CC-272B-428A-B801-0796E0AE7106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4BE58CC-272B-428A-B801-0796E0AE7106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4BE58CC-272B-428A-B801-0796E0AE7106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4BE58CC-272B-428A-B801-0796E0AE7106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97327478-3F3C-4FBB-91DF-70AB1C350C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97327478-3F3C-4FBB-91DF-70AB1C350C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97327478-3F3C-4FBB-91DF-70AB1C350C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97327478-3F3C-4FBB-91DF-70AB1C350C73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8B3E2B2-345E-4E68-B927-2B9DE341E900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B3E2B2-345E-4E68-B927-2B9DE341E900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8B3E2B2-345E-4E68-B927-2B9DE341E900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B3E2B2-345E-4E68-B927-2B9DE341E900}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2ECCD6F4-1156-4C37-AB1E-C62C4CB6A005}
+	EndGlobalSection
+EndGlobal

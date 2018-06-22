@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>IPM.TWRTradeImporter</id>
+    <version>$version$</version>
+    <title>IPM.TWRTradeImporter</title>
+    <authors>Indigo Books and Music</authors>   
+    <description>Importer for Teamwork to TradeDb_US.</description> 
+  </metadata>
+  <files>
+    <file src="*" exclude="*" />
+    <file src="..\build\buildinfo.xml" />		
+    <file src="..\src\Indigo.TWR.TradeImporter\bin\Release\netcoreapp2.0\*" />	
+  </files>
+</package>

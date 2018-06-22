@@ -1,0 +1,17 @@
+{  
+   "Id":"06daa072-57d9-48f6-b523-851adab82fa5",
+   "Status":"Successful",
+   "ElapsedTime":null,
+   "ErrorMessage":null,
+   "Lines":[  
+      {  
+         "StyleNo":"9780023381737",
+         "EntityNo":"4649",
+         "EntityId":"06daa072-57d9-48f6-b523-851adab82fa5",
+         "Error":null,
+         "Status":"Successful"
+      }
+   ],
+   "ApiType":"simplified-inventory-import",
+   "Source":"IndigoOnlineTrade"
+}
